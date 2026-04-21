@@ -21,6 +21,24 @@
 
 ---
 
+## 🎬 Demo
+![Paradigm Demo](demo.gif)
+
+*Neural architecture search with AutoML*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Search Space | ![space](screenshots/search-space.png) |
+| Architecture Graph | ![arch](screenshots/arch-graph.png) |
+| Search Progress | ![progress](screenshots/search-progress.png) |
+
+## Visual Description
+Search space displays defined operations and connections. Architecture graph shows discovered network topologies. Search progress shows validation accuracy over trials.
+
+---
+
+
 ## 📋 Table of Contents
 
 1. [Overview](#-overview)
